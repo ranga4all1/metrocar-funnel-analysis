@@ -2,6 +2,22 @@
 
 This repository contains files and links related to Metrocar - Funnel Analysis
 
+## Introduction
+
+Metrocar is a ride-sharing app (similar to Uber/Lyft). Metrocar's business model is based on a
+platform that connects riders with drivers through a mobile application. Metrocar is an
+intermediary between riders and drivers, providing a user-friendly platform to connect them and
+facilitate the ride-hailing process.
+
+Stakeholders had asked the data analysis team to analyze Metrocar’s data and identify areas
+for improvement and optimization. For example, Metrocar wants to analyze the percentage of
+users who download the app but do not complete the registration process, or the percentage of
+users who request a ride but cancel before the driver arrives.
+
+Funnel analysis was used to identify where users drop off or convert, helping to ultimately
+increase desired outcomes, such as sales, sign-ups, or conversions. It is widely used in
+e-commerce, marketing, and product development to drive growth and revenue.
+
 ## Files included
 
 - **Slides-Metrocar-funnel-analysis.pdf** - Presentation slides in pdf format
